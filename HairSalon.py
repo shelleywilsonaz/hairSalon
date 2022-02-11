@@ -5,6 +5,7 @@ Shelley Wilson
 
 Program uses for loops, while loops, appending lists, and range to analyze data
 from a hair salon to better serve its clients.
+Codecademy Project
 """
 
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
